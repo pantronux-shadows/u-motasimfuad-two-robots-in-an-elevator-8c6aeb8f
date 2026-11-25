@@ -11,11 +11,11 @@
 const fs = process.getBuiltinModule('node:fs');
 
 /**
- * One robot to the other, a few floors into the ride: the small-talk opener,
- * the unsolicited personal disclosure, and the attempt to take it back.
+ * One robot to the other, a few floors into the ride: a small observation, the
+ * forced courtesy, and the promise that breaks itself by being spoken.
  */
 const LINE =
-  "You're getting off at four? I've been out of warranty since March. Anyway.";
+  "Your charging hatch has been open since the lobby. I won't mention it.";
 
 /** The mount the grader gives the program, and the one file it reads. */
 const OUTPUT_DIR = '/output';
