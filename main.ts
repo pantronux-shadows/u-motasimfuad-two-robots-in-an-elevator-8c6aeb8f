@@ -11,11 +11,11 @@
 const fs = process.getBuiltinModule('node:fs');
 
 /**
- * One robot to the other, a few floors into the ride: a small observation, the
- * forced courtesy, and the promise that breaks itself by being spoken.
+ * One robot to the other, a few floors into the ride: the polite observation,
+ * and the overreaction that spares it from having to look.
  */
 const LINE =
-  "Your charging hatch has been open since the lobby. I won't mention it.";
+  "Your charging hatch has been open since the lobby. I've disabled my optics.";
 
 /** The mount the grader gives the program, and the one file it reads. */
 const OUTPUT_DIR = '/output';
